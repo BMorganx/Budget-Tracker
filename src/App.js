@@ -1,10 +1,11 @@
 import logo from './logo.svg';
-import './styles/style.scss';
+import './styles/App.scss';
+import Container from './components/Container';
 
 function App() {
   return (
     <div className="App">
-      ok
+      <Container>Test</Container>
     </div>
   );
 }

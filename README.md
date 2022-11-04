@@ -1,4 +1,4 @@
-Budget Tracking Web Application
+# Budget Tracking Web Application
 
 # Preview
 
